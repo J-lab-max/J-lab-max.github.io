@@ -1,4 +1,13 @@
-@font-face {
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+      title="Ajustar líneas largas">
+  </head>
+  <body>
+    <pre>table, th, td {
+  border: 0px solid black;
+}<br><br>@font-face {
 	font-family: "Linux Libertine";
 	src: url("fonts/LinLibertine_RZ.woff") format('woff');
 }
@@ -611,3 +620,6 @@ span.user {
 		display: none;
 	}
 }
+</pre>
+  </body>
+</html>
