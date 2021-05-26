@@ -5,16 +5,7 @@
       title="Ajustar líneas largas">
   </head>
   <body>
-    <pre>table, th, td {
-  border: 0px solid black;
-}<br><br>@font-face {
-	font-family: "Linux Libertine";
-	src: url("fonts/LinLibertine_RZ.woff") format('woff');
-}
-html {
-	font-family: sans-serif;
-	-ms-text-size-adjust: 100%;
-	-webkit-text-size-adjust: 100%;
+    <pre>
 }
 body {
 	margin: 0;
