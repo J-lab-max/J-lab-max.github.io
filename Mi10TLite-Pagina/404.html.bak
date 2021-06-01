@@ -59,10 +59,6 @@
     </p>
     <p><br>
     </p>
-    <p><a href="index.html"><br>
-      </a> </p>
-    <a href="index.html"> </a>
-    <p><button type="submit" class="btn btn-primary">Atras</button>
-    </p>
+    <form action="index.html" class="form-inline"> <button type="submit" class="btn btn-primary">Contacto</button></form>
   </body>
 </html>
