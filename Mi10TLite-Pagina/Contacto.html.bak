@@ -5,12 +5,11 @@
     <title>Contacto</title>
   </head>
   <body>
-    <form action="404.html"> Nombre: <br>
+    <form action="404.html" class="form-inline"> Nombre: <br>
       <input type="text"> <br>
       Edad: <br>
-      <input type="number"> <br>
-      <a href="404.html"><br>
-      </a><a href="../../Documents/GitHub/J-lab-max.github.io/Mi10TLite-Pagina/404.html"
-        target="_blank" style="">Enviar Datos</a> </form>
+      <input type="number"><br>
+       <br>
+        <button type="submit" class="btn btn-primary">Enviar</button></form>
   </body>
 </html>
