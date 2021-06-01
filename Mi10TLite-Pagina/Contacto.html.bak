@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Contacto</title>
+  </head>
+  <body>
+    <form action="404.html"> Nombre: <br>
+      <input type="text"> <br>
+      Edad: <br>
+      <input type="number"> <br>
+      <a href="404.html"><br>
+        <a href="http://laweb.com" target="_blank" style="">Enviar Datos</a></a> </form>
+  </body>
+</html>
