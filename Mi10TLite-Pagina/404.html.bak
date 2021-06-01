@@ -62,8 +62,7 @@
     <p><a href="index.html"><br>
       </a> </p>
     <a href="index.html"> </a>
-    <p><a href="../../Documents/GitHub/J-lab-max.github.io/Mi10TLite-Pagina/index.html"
-        target="_blank" style="">Atras</a><br>
+    <p><button type="submit" class="btn btn-primary">Enviar</button>
     </p>
   </body>
 </html>
