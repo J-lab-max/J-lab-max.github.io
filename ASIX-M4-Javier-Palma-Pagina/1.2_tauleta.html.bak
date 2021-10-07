@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Taula senzilla</title>
+  </head>
+  <body>
+    <h1 style="text-align: center;">Listat de pel·lícules</h1>
+    <p><br>
+    </p>
+    <table style="width: 868px; height: 147px;" border="0">
+      <tbody>
+        <tr style="height: 21.8px;">
+          <td style="width: 139.517px; text-align: center;"><b>Título</b></td>
+          <td style="width: 225.75px; text-align: center;"><b>Genero</b></td>
+          <td style="text-align: center;"><b>Valoración</b></td>
+          <td style="text-align: center;"><b>Recomendable</b></td>
+        </tr>
+        <tr>
+          <td>Pulp Fiction</td>
+          <td>Acción/Violencia</td>
+          <td style="width: 229.617px;">9</td>
+          <td style="width: 268.717px;">Si</td>
+        </tr>
+        <tr>
+          <td>La vida de Brian</td>
+          <td>Comedia</td>
+          <td>10</td>
+          <td>Si</td>
+        </tr>
+        <tr>
+          <td>Crepúsculo</td>
+          <td>Acción</td>
+          <td>5</td>
+          <td>No</td>
+        </tr>
+        <tr>
+          <td>Madagascar</td>
+          <td>Animación</td>
+          <td>8</td>
+          <td>Si</td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br>
+    </p>
+    <h2>Formulario</h2>
+    <p>Nombre del producto</p>
+    <table style="width: 194px; height: 28px;" border="1">
+      <tbody>
+        <tr>
+          <td>
+            <form name="" action=""><br>
+            </form>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>Descripcion del producto</p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <br>
+    <br>
+    <table>
+      <tbody>
+        <tr>
+          <!-- Capçaleres --> </tr>
+        <tr>
+          <!-- Contingut --> </tr>
+        <tr>
+          <!-- Contingut --> </tr>
+        <tr>
+          <!-- Contingut --> </tr>
+        <tr>
+          <!-- Contingut --> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
