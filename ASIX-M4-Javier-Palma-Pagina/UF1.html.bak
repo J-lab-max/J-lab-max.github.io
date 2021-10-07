@@ -21,23 +21,18 @@
           <div style="text-align: center;"><u><b>Javier Palma</b></u></div>
           <div style="text-align: center;"><u><b><br>
               </b></u></div>
-          <div style="text-align: center;"><span style="color: black;"><span style="font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f2f2f2; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></span><a
-              href="Actividad%200.1.html"><br>
-            </a></div>
-          <a href="Actividad%200.1.html"> </a>
-          <form action="Actividad%200.1.html" class="form-inline"><a href="Actividad%200.1.html">
-            </a><button type="submit" class="btn btn-primary">Actividad 1</button>
-            <a href="1.1_Tim.html"><button type="submit" class="btn btn-primary"
-                disabled="disabled"></button></a> </form>
-        </div>
-        <div class="navigation"><a href="1.1_Tim.html"><button type="submit" class="btn btn-primary"
-              style="color: black;">Actividad 2</button> </a>
-          <div style="text-align: left;"><span style="color: black;"><span style="font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f2f2f2; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><br>
-              </span></span></div>
-          <div style="text-align: left;"><span style="color: black;"><span style="font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f2f2f2; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">&nbsp;
-                <br> </span></span></div>
-          <div style="text-align: center;"><span style="color: black;"><span style="font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f2f2f2; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><br>
-              </span></span></div>
+          <div class="navigation"><span style="color: black;"><span style="font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f2f2f2; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span><button
+                type="submit" class="btn btn-primary">Actividad1</button><a href="1.1_Tim.html"><button
+                  type="button" class="btn btn-primary" name="Actividad 2"><span
+                    style="color: black;">Actividad 2</span></button></a></span></div>
+          <div class="navigation"><span style="color: black;"><a href="1.2_tauleta.html"><button
+                  type="button" class="btn btn-primary" disabled="disabled" name="Actividad 2"><span
+                    style="color: black;"><span style="color: #0645ad;"><span style="color: black;">Actividad
+                        2.1</span></span><br>
+                  </span></button></a></span>
+            <div style="text-align: center;"><span style="color: black;"><span style="font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f2f2f2; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><br>
+                </span></span></div>
+          </div>
         </div>
       </div>
       <br>
