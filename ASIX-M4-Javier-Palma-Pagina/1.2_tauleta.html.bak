@@ -44,25 +44,13 @@
     </table>
     <p><br>
     </p>
-    <h2>Formulario</h2>
-    <p>Nombre del producto</p>
-    <form name="Nombre del Producto" action="" enctype="text/plain"><br>
-    </form>
-    <p>Descripcion del producto</p>
-    <table style="width: 159px; height: 60px;" border="1">
-      <tbody>
-        <tr>
-          <td>
-            <form name="" action=""><br>
-              <br>
-              <br>
-            </form>
-          </td>
-        </tr>
-      </tbody>
-    </table>
     <br>
-    <br>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
     <table>
       <tbody>
         <tr>
