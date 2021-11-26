@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mitjansDeTransport>
+    <bicicleta velocitat="v 100km/h"/><bicicleta/>
+    <patinet velocitatmaxima="50 km/h"></patinet>
+</mitjansDeTransport>
+    
