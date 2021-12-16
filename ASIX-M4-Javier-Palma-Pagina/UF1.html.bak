@@ -21,66 +21,79 @@
           <div style="text-align: center;"><u><b>Javier Palma</b></u></div>
           <div style="text-align: left;"><a href="Actividad%200.1.html"><u><b><br>
                 </b></u></a></div>
-          <div style="text-align: left;"><a href="HTML/Actividad%200.1.html"><button
+          <div style="text-align: left;"><a href="HTML/Actividad%200.1.html"><button
+
                 name="Actividad 1">Actividad 1</button></a><u><b><br>
               </b></u></div>
           <div style="text-align: left;"><u><b><br>
               </b></u></div>
-          <div style="text-align: left;"><a href="1.1_Tim.html"><button name="Actividad 2">Actividad
-                2</button></a><u><b><br>
+          <div style="text-align: left;"><a href="HTML/1.1_Tim.html"><button
+
+                name="Actividad 2">Actividad 2</button></a><u><b><br>
               </b></u></div>
           <div style="text-align: center;"><u><b><br>
               </b></u></div>
-          <div style="text-align: left;"><a href="HTML/1.2_tauleta.html"><button
+          <div style="text-align: left;"><a href="HTML/1.2_tauleta.html"><button
+
                 name="Actividad 2.1">Actividad 2.1</button><br>
             </a></div>
           <div style="text-align: left;"><a href="1.2_tauleta.html"><br>
             </a></div>
-          <div style="text-align: left;"><a href="XML/Actividad%203.xml"><button
+          <div style="text-align: left;"><a href="XML/Actividad%203.xml"><button
+
                 name="Actividad 3">Actividad 3</button><br>
             </a></div>
           <div style="text-align: left;"><a href="Actividad%203.xml"><br>
             </a></div>
-          <div style="text-align: left;"><a href="XML/Actividad%203.1.xml"><button
+          <div style="text-align: left;"><a href="XML/Actividad%203.1.xml"><button
+
                 name="Actividad 3.1.">Actividad 3.1</button><br>
             </a></div>
           <div style="text-align: left;"><a href="Actividad%203.1.xml"><br>
             </a></div>
-          <div style="text-align: left;"><a href="XML/Actividad%203.2.xml"><button
+          <div style="text-align: left;"><a href="XML/Actividad%203.2.xml"><button
+
                 name="Actividad 3.2.">Actividad 3.2</button><br>
             </a></div>
           <div style="text-align: left;"><a href="Actividad%203.2.xml"><br>
             </a></div>
-          <div style="text-align: left;"><a href="XML/Actividad%203.3.xml"><button
+          <div style="text-align: left;"><a href="XML/Actividad%203.3.xml"><button
+
                 name="Actividad 3.3">Actividad 3.3</button><br>
             </a></div>
           <div style="text-align: left;"><a href="Actividad%203.4.xml"><br>
             </a></div>
-          <div style="text-align: left;"><a href="XML/Actividad%203.4.xml"><button
+          <div style="text-align: left;"><a href="XML/Actividad%203.4.xml"><button
+
                 name="Actividad 3.4">Actividad 3.4</button><br>
             </a></div>
           <div style="text-align: left;"><a href="Actividad%203.5.xml"><br>
             </a></div>
-          <div style="text-align: left;"><a href="XML/Actividad%203.5.xml"><button
+          <div style="text-align: left;"><a href="XML/Actividad%203.5.xml"><button
+
                 name="Actividad 3.5">Actividad 3.5</button><br>
             </a></div>
           <div style="text-align: left;"><a href="Actividad%203.6.xml"><br>
             </a></div>
-          <div style="text-align: left;"><a href="XML/Actividad%203.6.xml"><button
+          <div style="text-align: left;"><a href="XML/Actividad%203.6.xml"><button
+
                 name="Actividad 3.6">Actividad 3.6</button><br>
             </a></div>
           <div style="text-align: left;"><span style="color: #3366ff;"><a href="Actividad%203.6.xml"><br>
               </a></span></div>
-          <button name="Actividad 4"><span style="color: #3366ff;"> <span style="color: #3232ff;"></span></span><span
-              style="color: #3232ff;">Actividad 4</span></button></div>
+          <a href="DTD/Actividad%204.xml"><button name="Actividad 4"><span style="color: #3366ff;">
+                <span style="color: #3232ff;"></span></span><span style="color: #3232ff;">Actividad
+                4</span></button></a></div>
         <a href="DTD/Actividad%204.xml"> </a>
         <div class="navigation"><span style="color: #3232ff;"><br>
           </span></div>
-        <div class="navigation"><a href="DTD/Actividad%204.1.xml"><button name="Actividad 4.1"
+        <div class="navigation"><a href="DTD/Actividad%204.1.xml"><button name="Actividad 4.1"
+
               style="color: #3232ff;">Actividad 4.1</button></a></div>
         <div class="navigation"><br>
         </div>
-        <div class="navigation"><a href="DTD/Actividad%204.2.xml"><button name="Actividad 4.2"
+        <div class="navigation"><a href="DTD/Actividad%204.2.xml"><button name="Actividad 4.2"
+
               style="color: #3232ff;">Actividad 4.2</button></a></div>
         <div class="navigation"><br>
         </div>
@@ -88,27 +101,35 @@
             4.3 </button></a>
         <div class="navigation"><br>
         </div>
-        <div class="navigation"><a href="DTD/Actividad%204.4.xml"><button name="Actividad 4.4"
+        <div class="navigation"><a href="DTD/Actividad%204.4.xml"><button name="Actividad 4.4"
+
               style="color: #3232ff;">Actividad 4.4</button></a></div>
         <div class="navigation"><br>
         </div>
-        <div class="navigation"><a href="DTD/Actividad%204.5.xml"><button name="Actividad 4.5"
+        <div class="navigation"><a href="DTD/Actividad%204.5.xml"><button name="Actividad 4.5"
+
               style="color: #3232ff;">Actividad 4.5</button></a></div>
         <div class="navigation"><br>
         </div>
-        <div class="navigation"><a href="DTD/Actividad%204.2.0.xml"><button name="Actividad 4.2.0"
+        <div class="navigation"><a href="DTD/Actividad%204.2.0.xml"><button name="Actividad 4.2.0"
+
               style="color: #3232ff;">Actividad 4.2.0</button></a><br>
         </div>
         <div class="navigation"><br>
         </div>
-        <div class="navigation"><a href="DTD/Actividad%204.2.1.xml"><button name="Actividad 4.2.1"
+        <div class="navigation"><a href="DTD/Actividad%204.2.1.xml"><button name="Actividad 4.2.1"
+
               style="color: #3232ff;">Actividad 4.2.1</button><br>
           </a></div>
         <div class="navigation"><a href="DTD/Actividad%204.2.1.xml"><br>
           </a></div>
         <div class="navigation"><a href="DTD/Actividad%204.2.2.xml"><button name="Actividad 4.2.2">Actividad
               4.2.2</button><br>
-          </a> </div>
+          </a></div>
+        <div class="navigation"><a href="DTD/Actividad%204.2.2.xml"><br>
+          </a></div>
+        <div class="navigation"><a href="DTD/Actividad%204.3.0.xml"><button name="Actividad 4.3.0">Actividad
+              4.3.0 </button></a></div>
         <div class="navigation"><br>
         </div>
         <div class="navigation"><br>
@@ -130,14 +151,19 @@
               </b></u></div>
           <div style="text-align: center;"><u><b><br>
               </b></u></div>
-          <a href="1.2_tauleta.html"><span style="color: black;"><button type="button"
-                class="btn btn-primary" disabled="disabled" name="Actividad 2"><span
-                  style="color: black;"></span></button></span></a><a href="1.2_tauleta.html"><span
-              style="color: black;"><button type="button" class="btn btn-primary"
+          <a href="1.2_tauleta.html"><span style="color: black;"><button type="button"
+
+                class="btn btn-primary" disabled="disabled" name="Actividad 2"><span
+
+                  style="color: black;"></span></button></span></a><a href="1.2_tauleta.html"><span
+
+              style="color: black;"><button type="button" class="btn btn-primary"
+
                 disabled="disabled" name="Actividad 2"><span style="color: black;">
                 </span></button></span></a>
           <div class="navigation">
-            <div style="text-align: center;"><a href="1.2_tauleta.html"><span style="color: black;"><span
+            <div style="text-align: center;"><a href="1.2_tauleta.html"><span style="color: black;"><span
+
                     style="font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #f2f2f2; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><br>
                   </span></span></a></div>
           </div>
