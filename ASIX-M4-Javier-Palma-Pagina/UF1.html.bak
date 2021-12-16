@@ -74,6 +74,45 @@
           <button name="Actividad 4"><span style="color: #3366ff;"> <span style="color: #3232ff;"></span></span><span
               style="color: #3232ff;">Actividad 4</span></button></div>
         <a href="DTD/Actividad%204.xml"> </a>
+        <div class="navigation"><span style="color: #3232ff;"><br>
+          </span></div>
+        <div class="navigation"><a href="DTD/Actividad%204.1.xml"><button name="Actividad 4.1"
+              style="color: #3232ff;">Actividad 4.1</button></a></div>
+        <div class="navigation"><br>
+        </div>
+        <div class="navigation"><a href="DTD/Actividad%204.2.xml"><button name="Actividad 4.2"
+              style="color: #3232ff;">Actividad 4.2</button></a></div>
+        <div class="navigation"><br>
+        </div>
+        <a href="DTD/Actividad%204.3.xml"><button name="Actividad 4.3" style="color: #3232ff;">Actividad
+            4.3 </button></a>
+        <div class="navigation"><br>
+        </div>
+        <div class="navigation"><a href="DTD/Actividad%204.4.xml"><button name="Actividad 4.4"
+              style="color: #3232ff;">Actividad 4.4</button></a></div>
+        <div class="navigation"><br>
+        </div>
+        <div class="navigation"><a href="DTD/Actividad%204.5.xml"><button name="Actividad 4.5"
+              style="color: #3232ff;">Actividad 4.5</button></a></div>
+        <div class="navigation"><br>
+        </div>
+        <div class="navigation"><a href="DTD/Actividad%204.2.0.xml"><button name="Actividad 4.2.0"
+              style="color: #3232ff;">Actividad 4.2.0</button></a><br>
+        </div>
+        <div class="navigation"><br>
+        </div>
+        <div class="navigation"><a href="DTD/Actividad%204.2.1.xml"><button name="Actividad 4.2.1"
+              style="color: #3232ff;">Actividad 4.2.1</button><br>
+          </a></div>
+        <div class="navigation"><a href="DTD/Actividad%204.2.1.xml"><br>
+          </a></div>
+        <div class="navigation"><a href="DTD/Actividad%204.2.2.xml"><button name="Actividad 4.2.2">Actividad
+              4.2.2</button><br>
+          </a> </div>
+        <div class="navigation"><br>
+        </div>
+        <div class="navigation"><br>
+        </div>
         <div class="navigation"><br>
         </div>
         <div class="navigation"><br>
