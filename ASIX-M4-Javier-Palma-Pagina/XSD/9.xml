@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./9.xsd" naixement="2022-09-24">
+<dades telef="093076">
+    <nom>String</nom>
+    <cognoms>String2</cognoms>
+    <dni>0937J</dni>    
+</dades>
+<comentari></comentari>
+</persona>
