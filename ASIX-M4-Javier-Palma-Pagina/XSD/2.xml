@@ -4,7 +4,7 @@
  <xs:complexType>
    <xs:sequence>
     <xs:element name="doc" type="xs:string"     
-              minOccurs="0" maxOccurs="2"/>
+              minOccurs="0" maxOccurs="10"/>
    </xs:sequence>
  </xs:complexType>
 </xs:element>
