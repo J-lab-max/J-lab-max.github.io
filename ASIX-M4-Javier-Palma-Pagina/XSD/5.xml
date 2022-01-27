@@ -3,9 +3,11 @@
    <performer>
        <nick>The redheaded priest</nick>
        <name>Antonio Vivaldi</name>
+       <born></born>
    </performer>
    <performer>
        <born>21-03-1685</born>
        <name>Johann Sebastian Bach</name>
+       <nick></nick>
    </performer>
 </artists>
