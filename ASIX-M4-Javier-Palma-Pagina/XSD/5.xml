@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artists xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="5.1.xsd">
+   <performer>
+       <nick>The redheaded priest</nick>
+       <name>Antonio Vivaldi</name>
+   </performer>
+   <performer>
+       <born>21-03-1685</born>
+       <name>Johann Sebastian Bach</name>
+   </performer>
+</artists>
