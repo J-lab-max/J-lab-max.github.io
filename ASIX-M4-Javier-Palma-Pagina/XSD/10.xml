@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fitxes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./10.xsd">
+    <fitxa numero="09">
+        <nom>Hola</nom>
+    </fitxa>
+    <fitxa numero="10">
+        <codi>9876</codi>
+    </fitxa>
+</fitxes>
