@@ -19,7 +19,7 @@
             Lenguajes de marcas y sistemas de gestión de información.DTD. &nbsp;</span>
         </h1>
         <p style="text-align: center;">Lo que se hara en esta página web para
-          subir las actividades de DTD de M4:Lenguajes de marcas y sistemas de
+          subir las actividades de XSD de M4:Lenguajes de marcas y sistemas de
           gestión de información.</p>
         <div style="text-align: center;"><img src="../img/29182.png" alt="foto"
             title="foto" style="width: 92px; height: 92px;"></div>
@@ -77,8 +77,7 @@
     <a href="18.xml"><button name="Actividad18">Actividad18</button></a>
     <div class="wrapAll clearfix"><br>
     </div>
-    <a href="19.xml"><button name="Actividad19">Actividad19
-      </button></a>
+    <a href="19.xml"><button name="Actividad19">Actividad19 </button></a>
     <div class="wrapAll clearfix"><br>
     </div>
     <div class="wrapAll clearfix"><br>
