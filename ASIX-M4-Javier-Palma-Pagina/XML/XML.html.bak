@@ -35,9 +35,13 @@
       <a href="4.xml"><button name="Actividad4">Actividad4&nbsp;</button></a></div>
     <div class="wrapAll clearfix"><br>
     </div>
-    <div class="wrapAll clearfix">Actividad5</div>
+    <div class="wrapAll clearfix"><a href="5.xml"><button name="Actividad5">Actividad5</button></a></div>
     <div class="wrapAll clearfix"><br>
     </div>
+    <div class="wrapAll clearfix"><a href="6.xml"><button name="Actividad6">Actividad6</button></a></div>
+    <div class="wrapAll clearfix"><br>
+    </div>
+    <a href="7.xml"><button name="Actividad7">Actividad7</button></a>
     <div class="wrapAll clearfix"><br>
     </div>
     <div class="wrapAll clearfix"><br>
