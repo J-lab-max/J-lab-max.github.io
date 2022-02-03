@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>		
-<filmoteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./11.xsd">
-  <peli>
-    <titol>Amb faldes i a lo loco</titol>
-    <director>Billy Wilder</director>
-  </peli>
-  <peli>		
-    <titol>Sopa de goig</titol>
