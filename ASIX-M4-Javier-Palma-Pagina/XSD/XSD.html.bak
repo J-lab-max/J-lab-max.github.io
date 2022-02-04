@@ -16,7 +16,7 @@
     <div class="wrapAll clearfix">
       <div class="sidebar">
         <h1 style="text-align: center;"><span style="color: #ff6666;">M4:
-            Lenguajes de marcas y sistemas de gestión de información.DTD. &nbsp;</span>
+            Lenguajes de marcas y sistemas de gestión de información.XSD. &nbsp;</span>
         </h1>
         <p style="text-align: center;">Lo que se hara en esta página web para
           subir las actividades de XSD de M4:Lenguajes de marcas y sistemas de
@@ -53,32 +53,10 @@
     <a href="10.xml"><button name="Actividad10">Actividad10</button></a>
     <div class="wrapAll clearfix"><br>
     </div>
-    <a href="11.xml"><button name="Actividad11">Actividad11</button></a>
+    <div class="wrapAll clearfix"><a href="11.xml"><button name="Actividad11">Actividad11</button></a></div>
     <div class="wrapAll clearfix"><br>
     </div>
-    <div class="wrapAll clearfix"><a href="12.xml"><button name="Actividad12">Actividad12</button></a></div>
-    <div class="wrapAll clearfix"><br>
-    </div>
-    <a href="13.xml"><button name="Activdad13">Actividad13</button></a>
-    <div class="wrapAll clearfix"><br>
-    </div>
-    <a href="14.xml"><button name="Actividad14">Actividad14</button></a>
-    <div class="wrapAll clearfix"><br>
-    </div>
-    <a href="15.xml"><button name="Actividad15">Actividad15</button></a>
-    <div class="wrapAll clearfix"><br>
-    </div>
-    <a href="16.xml"><button name="Actividad16">Actividad16</button></a>
-    <div class="wrapAll clearfix"><br>
-    </div>
-    <div class="wrapAll clearfix"><a href="17.xml"><button name="Actividad17">Actividad17</button></a></div>
-    <div class="wrapAll clearfix"><br>
-    </div>
-    <a href="18.xml"><button name="Actividad18">Actividad18</button></a>
-    <div class="wrapAll clearfix"><br>
-    </div>
-    <a href="19.xml"><button name="Actividad19">Actividad19 </button></a>
-    <div class="wrapAll clearfix"><br>
+    <div class="wrapAll clearfix"><a href="12.xml"><button name="Actividad12">Actividad12</button></a><br>
     </div>
     <div class="wrapAll clearfix"><br>
     </div>
