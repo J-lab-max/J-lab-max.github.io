@@ -3,12 +3,12 @@
 <rss version="2.0">
     <channel>
         <title> M4: Lenguajes de marcas y sistemas de gestión de información </title>
-        <link>https://j-lab-max.github.io/ASIX-M4-Javier-Palma-Pagina/ </link>
+        <link>https://j-lab-max.github.io/ASIX-M4-Javier-Palma-Pagina/index.html</link>
         <description>Pagina de M4</description>
 
         <item>
             <title> M4: Lenguajes de marcas y sistemas de gestión de información </title>
-            <link>https://j-lab-max.github.io/ASIX-M4-Javier-Palma-Pagina/ </link>
+            <link>https://j-lab-max.github.io/ASIX-M4-Javier-Palma-Pagina/index.html </link>
             <description>Pagina de M4</description>
         </item>
     </channel>
