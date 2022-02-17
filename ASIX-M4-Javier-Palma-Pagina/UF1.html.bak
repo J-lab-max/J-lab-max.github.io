@@ -28,17 +28,24 @@
         <div class="navigation" style="text-align: left;"><br>
         </div>
         <div style="text-align: left;"><a href="XML/XML.html"><button name="XML">XML</button></a></div>
-        <div class="navigation" style="text-align: left;"><br>
-        </div>
         <div class="navigation">
           <div style="text-align: left;"><a href="DTD/XML.html"><button name="DTD">DTD</button></a></div>
           <a href="1.2_tauleta.html"><span style="color: black;"><br>
             </span></a></div>
-        <button name="XSD">XSD
-          
-          
-          
-        </button></div>
+        <div class="navigation"><a href="XSD/XSD.html"><span style="color: black;"><button
+                name="XSD">XSD</button><br>
+            </span></a></div>
+        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
+            </span></a></div>
+        <div class="navigation"><a href="RSS/RSS.html"><button name="RSS">RSS
+            </button></a></div>
+        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
+            </span></a></div>
+        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
+            </span></a></div>
+        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
+            </span></a></div>
+      </div>
       <br>
       <div class="mainsection">
         <div class="article">
