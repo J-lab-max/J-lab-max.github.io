@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <style text="text/css">
+*{
+background-color:red;
+}
+</style></head>
+  <body>
+    <h2>Exercici 3 XSLT</h2>
+    <ol border="1">
+      <tbody>
+        <li>
+          <th>Titol</th>
+          <th>Autor</th>
+        </li>
+        <li>
+          <td>Don Quijote</td>
+          <td>Cervantes</td>
+        </li>
+        <li>
+          <td>Poeta en Nueva York</td>
+          <td>Lorca</td>
+        </li>
+      </tbody>
+    </ol>
+  </body>
+</html>
