@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<resultset statement="select * from classes
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="id">1</field>
+	<field name="materia">Pocions</field>
+	<field name="profe_id">1</field>
+  </row>
+
+  <row>
+	<field name="id">2</field>
+	<field name="materia">Transfiguracio</field>
+	<field name="profe_id">2</field>
+  </row>
+
+  <row>
+	<field name="id">3</field>
+	<field name="materia">Encants</field>
+	<field name="profe_id">3</field>
+  </row>
+
+  <row>
+	<field name="id">4</field>
+	<field name="materia">Herbologia</field>
+	<field name="profe_id">4</field>
+  </row>
+
+  <row>
+	<field name="id">5</field>
+	<field name="materia">Defensa contra les arts oscures</field>
+	<field name="profe_id">5</field>
+  </row>
+
+  <row>
+	<field name="id">6</field>
+	<field name="materia">Astronomia</field>
+	<field name="profe_id">6</field>
+  </row>
+
+  <row>
+	<field name="id">7</field>
+	<field name="materia">Vol</field>
+	<field name="profe_id">7</field>
+  </row>
+
+  <row>
+	<field name="id">8</field>
+	<field name="materia">Estudis dels Muggle</field>
+	<field name="profe_id">8</field>
+  </row>
+
+  <row>
+	<field name="id">9</field>
+	<field name="materia">Historia de la Magia</field>
+	<field name="profe_id">9</field>
+  </row>
+
+  <row>
+	<field name="id">10</field>
+	<field name="materia">Director</field>
+	<field name="profe_id">10</field>
+  </row>
+</resultset>
