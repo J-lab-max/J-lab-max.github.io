@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>M4</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="http://html5-templates.com/">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="stylesheet" href="style.css">
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+  </head>
+  <body>
+    <div class="wrapAll clearfix">
+      <div class="sidebar">
+        <h1 style="text-align: center;"><span style="color: #ff6666;">M4:
+            Lenguajes de marcas y sistemas de gestión de información.XPATH.
+            &nbsp;</span> </h1>
+        <p style="text-align: center;">Lo que se hara en esta página web para
+          subir las actividades de XSLT de M4:Lenguajes de marcas y sistemas de
+          gestión de información.</p>
+        <div style="text-align: center;"><img src="../img/29182.png" alt="foto"
+            title="foto" style="width: 92px; height: 92px;"></div>
+        <p style="text-align: center;"><i>Javier Palma</i></p>
+      </div>
+      <div class="sidebar">
+        <div style="text-align: center;">
+          <p style="text-align: left;"><button name="Actividad1">Actividad1</button></p>
+          <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+          <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+          <script src="script.js"></script> </div>
+      </div>
+    </div>
+  </body>
+</html>
