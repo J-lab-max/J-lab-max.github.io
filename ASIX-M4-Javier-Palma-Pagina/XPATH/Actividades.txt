@@ -37,6 +37,3 @@
 19:count(//song/date[day=20])
 
 20:count(//song[artist="Metallica"])
-
-21:
-
