@@ -6,8 +6,7 @@
 2://table/tbody//span[@class='simcal-day-label simcal-day-number']
    //table/tbody//span[contains(@class,'simcal-day-number')]
 
-3://span[normalize-space()='31']
-   //span[contains(@class,"simcal-present")]
+3://tbody//td[contains(@class,'present')]//span[1]
 
 
 4://div[@class='grid-icon']/a/img
@@ -16,3 +15,12 @@
 
 5://div[@id='sidebar-frontpage-inner']/div/img
   //div/img[@width=300]
+
+
+6://table/thead//span
+
+
+7://div[@id='socialmedia_widget-2']/a
+
+ 
+8://div[contains(@class,"icon-box")]/div[not(contains(@class,"show-for-small"))]//span
