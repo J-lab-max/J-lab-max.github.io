@@ -23,7 +23,7 @@
         </div>
         <div class="navigation" style="text-align: left;"><br>
         </div>
-        <div class="navigation" style="text-align: left;"><a href="HTML/HTML.html"><button
+        <div class="navigation" style="text-align: left;"><a href="HTML/HTML.html"><button
               name="HTML">HTML</button></a></div>
         <div class="navigation" style="text-align: left;"><br>
         </div>
@@ -31,39 +31,11 @@
         <div class="navigation" style="text-align: left;"><br>
         </div>
         <div class="navigation" style="text-align: left;">
-          <div><a href="DTD/XML.html"><button name="DTD">DTD</button></a></div>
+          <div><a href="DTD/DTD.html"><button name="DTD">DTD</button></a></div>
           <a href="1.2_tauleta.html"><span style="color: black;"><br>
             </span></a></div>
-        <div class="navigation" style="text-align: left;"><a href="XSD/XSD.html"><span
+        <div class="navigation" style="text-align: left;"><a href="XSD/XSD.html"><span
               style="color: black;"><button name="XSD" style="color: #3366ff;">XSD</button><br>
-            </span></a></div>
-        <div class="navigation" style="text-align: left;"><a href="1.2_tauleta.html"><span
-              style="color: black;"><br>
-            </span></a></div>
-        <div class="navigation" style="text-align: left;"><a href="RSS/RSS.html"><button
-              name="RSS">RSS </button></a></div>
-        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
-            </span></a></div>
-        <div class="navigation"><a href="XSLT/XSLT.html"><span style="color: #000099;"><button
-                name="XSLT">XSLT</button></span></a></div>
-        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
-            </span></a></div>
-        <div class="navigation"><a href="XPATH/XPATH.html"><button name="XPATH">XPATH
-              
-            </button></a></div>
-        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
-            </span></a></div>
-        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
-            </span></a></div>
-        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
-            </span></a></div>
-        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
-            </span></a></div>
-        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
-            </span></a></div>
-        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
-            </span></a></div>
-        <div class="navigation"><a href="1.2_tauleta.html"><span style="color: black;"><br>
             </span></a></div>
       </div>
       <br>
